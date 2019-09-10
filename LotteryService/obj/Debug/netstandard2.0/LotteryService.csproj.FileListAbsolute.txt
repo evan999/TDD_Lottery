@@ -1,0 +1,13 @@
+C:\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.csprojAssemblyReference.cache
+C:\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.csproj.CoreCompileInputs.cache
+C:\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.AssemblyInfoInputs.cache
+C:\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.AssemblyInfo.cs
+C:\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\LotteryService.deps.json
+C:\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\LotteryService.dll
+C:\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\TDD_Lottery-master\LotteryService\bin\Debug\netstandard2.0\LotteryService.pdb
+C:\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.dll
+C:\TDD_Lottery-master\LotteryService\obj\Debug\netstandard2.0\LotteryService.pdb
